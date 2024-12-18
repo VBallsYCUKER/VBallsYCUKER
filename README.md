@@ -1,1 +1,1 @@
-heh, balls.
+print("heh, balls.")
